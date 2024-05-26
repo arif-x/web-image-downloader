@@ -1,0 +1,4 @@
+.venv/
+.idea/
+web_image_downloader.egg-info/
+build/
